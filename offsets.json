@@ -5,7 +5,7 @@
     "dwGameRules": 27029072,
     "dwGlobalVars": 24938248,
     "dwGlowManager": 27026784,
-	@@ -12,20 +12,21 @@
+
     "dwPrediction": 24987264,
     "dwSensitivity": 27032344,
     "dwSensitivity_sensitivity": 64,
@@ -29,7 +29,7 @@
     "dwWindowHeight": 6245348,
     "dwWindowWidth": 6245344
   },
-	@@ -34,6 +35,10 @@
+
   },
   "matchmaking.dll": {
     "dwGameTypes": 1720736,
