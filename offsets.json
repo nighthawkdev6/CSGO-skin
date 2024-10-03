@@ -5,15 +5,18 @@
     "dwGameEntitySystem": 28134264,
     "dwGameEntitySystem_highestEntityIndex": 5408,
     "dwGameRules": 27362936,
+    "dwGlobalVars": 25255776,
     "dwGlowManager": 27360608,
     "dwLocalPlayerController": 27305464,
-    "dwLocalPlayerPawn": 25305280,
+    "dwLocalPlayerPawn": 25305288,
     "dwPlantedC4": 27397816,
     "dwPrediction": 25304928,
+    "dwSensitivity": 27366296,
     "dwSensitivity_sensitivity": 64,
     "dwViewAngles": 27421664,
     "dwViewMatrix": 27381104,
-    "dwViewRender": 27383120
+    "dwViewRender": 27383120,
+    "dwWeaponC4": 26992000
   },
   "engine2.dll": {
     "dwBuildNumber": 5426132,
